@@ -19,6 +19,8 @@ CloudSecLists is a collection of tools that are useful for securing a cloud envi
 [minio](https://github.com/minio/minio) - Set up a local S3 type lab you can test your scripts against. See https://medium.com/@jonathanchelmus/creating-an-s3-lab-on-an-ec2-instance-95ffd8ac6c1  
 [Recon-Public-Buckets](https://github.com/Moos1e/Recon-Public-Buckets) - Example of using bash + aws cli against a list of buckets to see if you have public buckets in your environment.  
 
+### Cloudformation
+[cfn_nag](https://github.com/stelligent/cfn_nag) - Cloudformation template scanner. DevSecOps. My favorite of the Open Source ones.
 
 ### Labmda
 [LambdaGuard](https://github.com/Skyscanner/LambdaGuard) - Audit and scan Lambda services  
