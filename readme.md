@@ -20,7 +20,7 @@ CloudSecLists is a collection of tools that are useful for securing a cloud envi
 [Recon-Public-Buckets](https://github.com/Moos1e/Recon-Public-Buckets) - Example of using bash + aws cli against a list of buckets to see if you have public buckets in your environment.  
 
 ### Cloudformation
-[cfn_nag](https://github.com/stelligent/cfn_nag) - Cloudformation template scanner. DevSecOps. My favorite of the Open Source ones.
+[cfn_nag](https://github.com/stelligent/cfn_nag) - Cloudformation template scanner. DevSecOps. My favorite of the Open Source ones.  
 [checkov](https://github.com/bridgecrewio/checkov) - Cloudformation template scanner. DevSecOps.
 
 ### Labmda
