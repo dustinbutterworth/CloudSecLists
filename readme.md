@@ -23,7 +23,7 @@ CloudSecLists is a collection of tools that are useful for securing a cloud envi
 [cfn_nag](https://github.com/stelligent/cfn_nag) - Cloudformation template scanner. DevSecOps. My favorite of the Open Source ones.  
 [checkov](https://github.com/bridgecrewio/checkov) - Cloudformation template scanner. DevSecOps.
 
-### Labmda
+### Lambda
 [LambdaGuard](https://github.com/Skyscanner/LambdaGuard) - Audit and scan Lambda services  
 
 ### Informational Resources
